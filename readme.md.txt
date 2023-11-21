@@ -1,0 +1,1 @@
+Ainda em construção. Estarei tentando recriar um notepad com funções para quem é da área de TI.
